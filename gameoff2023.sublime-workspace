@@ -1,0 +1,940 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h2"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"overfl",
+				"overflow-y"
+			],
+			[
+				"att",
+				"attacktime"
+			],
+			[
+				"Flx",
+				"FlxSprite"
+			],
+			[
+				"flx",
+				"FlxG"
+			],
+			[
+				"flxs",
+				"FlxState"
+			],
+			[
+				"flxco",
+				"FlxColor"
+			],
+			[
+				"sill",
+				"skillbar"
+			],
+			[
+				"tim",
+				"timer"
+			],
+			[
+				"flxcol",
+				"FlxColor"
+			],
+			[
+				"i",
+				"im\tImport (im)"
+			],
+			[
+				"cente",
+				"centered"
+			],
+			[
+				"s",
+				"scr"
+			],
+			[
+				"smoke",
+				"smokez"
+			],
+			[
+				"Sm",
+				"Smoke"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"spawn",
+				"spawnCount"
+			],
+			[
+				"sw",
+				"switch\tswitch"
+			],
+			[
+				"smok",
+				"Smoke"
+			],
+			[
+				"spr",
+				"spr1"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"power",
+				"powerup"
+			],
+			[
+				"switch",
+				"switch\tswitch"
+			],
+			[
+				"Po",
+				"PowerUp"
+			],
+			[
+				"indi",
+				"Indicator"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"flxg",
+				"FlxGroup"
+			],
+			[
+				"targ",
+				"target"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"switc",
+				"switch\tswitch"
+			],
+			[
+				"Pl",
+				"Player"
+			],
+			[
+				"pla",
+				"Player"
+			],
+			[
+				"F",
+				"FlxColor"
+			],
+			[
+				"Flxs",
+				"FlxSprite"
+			],
+			[
+				"sp",
+				"sprite2"
+			],
+			[
+				"E",
+				"Enemey"
+			],
+			[
+				"FlxTy",
+				"FlxTypedGroup"
+			],
+			[
+				"playe",
+				"player"
+			],
+			[
+				"leader",
+				"leaderboardId"
+			],
+			[
+				"player",
+				"player_id"
+			],
+			[
+				"peo",
+				"peoplebutton"
+			],
+			[
+				"bitmap",
+				"BitmapData"
+			],
+			[
+				"flxty",
+				"FlxTypedGroup"
+			],
+			[
+				"pers",
+				"Person"
+			],
+			[
+				"flxgr",
+				"FlxGroup"
+			],
+			[
+				"new",
+				"newguyData"
+			],
+			[
+				"loo",
+				"LootLocker"
+			],
+			[
+				"loa",
+				"loadGraphic"
+			],
+			[
+				"Bit",
+				"BitmapData"
+			],
+			[
+				"start",
+				"starterData"
+			],
+			[
+				"choi",
+				"choiceOfPeople"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"leade",
+				"leaderboardText"
+			],
+			[
+				"le",
+				"leaderboardList"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"Glo",
+				"GlobalVars"
+			],
+			[
+				"Leader",
+				"LeaderboardState"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"sess",
+				"sessionToken"
+			],
+			[
+				"fun",
+				"fun\tfunction"
+			],
+			[
+				"FlxTyped",
+				"FlxTypedButton"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"flxte",
+				"FlxTextAlign"
+			],
+			[
+				"scor",
+				"score"
+			],
+			[
+				"sprie",
+				"spriteB"
+			],
+			[
+				"load",
+				"loadGraphic"
+			],
+			[
+				"spri",
+				"spriteB"
+			],
+			[
+				"sprite",
+				"spriteB"
+			],
+			[
+				"flxti",
+				"FlxTimer"
+			],
+			[
+				"FlxT",
+				"FlxText"
+			],
+			[
+				"swi",
+				"switch\tswitch"
+			],
+			[
+				"flxtyped",
+				"FlxTypedGroup"
+			],
+			[
+				"Fl",
+				"FlxG"
+			],
+			[
+				"platf",
+				"Platform"
+			],
+			[
+				"Plat",
+				"Platform"
+			],
+			[
+				"fg",
+				"FgGame"
+			],
+			[
+				"cla",
+				"class\tClass"
+			],
+			[
+				"FgS",
+				"FgSprite"
+			],
+			[
+				"Can",
+				"CanvasRenderingContext2D"
+			],
+			[
+				"pos",
+				"posx"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"p",
+				"pf\tPublic Function (pf)"
+			],
+			[
+				"bit",
+				"bitmap"
+			],
+			[
+				"b",
+				"bitmap"
+			],
+			[
+				"kr",
+				"KrustyBurger2"
+			],
+			[
+				"big",
+				"BigHonkingChoice"
+			],
+			[
+				"bigh",
+				"BigHonkingChoice"
+			],
+			[
+				"global",
+				"Globals"
+			],
+			[
+				"on",
+				"onMouseOver"
+			],
+			[
+				"flxtype",
+				"FlxTypeText"
+			],
+			[
+				"base",
+				"BaseScene"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"enem",
+				"enemies"
+			],
+			[
+				"idle",
+				"idleState"
+			],
+			[
+				"wa",
+				"Wall"
+			],
+			[
+				"wal",
+				"Wall"
+			],
+			[
+				"flxp",
+				"FlxPoint"
+			],
+			[
+				"Flxtye",
+				"FlxTypedGroup"
+			],
+			[
+				"flxtye",
+				"FlxTypedGroup"
+			],
+			[
+				"flxpo",
+				"FlxPoint"
+			],
+			[
+				"glo",
+				"Globals"
+			],
+			[
+				"Flxve",
+				"FlxVelocity"
+			],
+			[
+				"pf",
+				"pf\tPublic Function (pf)"
+			],
+			[
+				"Flxco",
+				"FlxColor"
+			],
+			[
+				"if",
+				"ife\tif-else (ife)"
+			],
+			[
+				"gam",
+				"gamepad"
+			],
+			[
+				"game",
+				"gamepad"
+			],
+			[
+				"flxgame",
+				"FlxGamepad"
+			],
+			[
+				"flxt",
+				"FlxTimer"
+			],
+			[
+				"flxatl",
+				"FlxAtlasFrames"
+			],
+			[
+				"bo",
+				"box1"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"won",
+				"hasWon"
+			],
+			[
+				"flxat",
+				"FlxAtlasFrames"
+			],
+			[
+				"micro",
+				"microgamelist"
+			],
+			[
+				"flxbar",
+				"FlxBarFillDirection"
+			],
+			[
+				"flxba",
+				"FlxBar"
+			],
+			[
+				"fl",
+				"FlxSprite"
+			],
+			[
+				"cube",
+				"cube2"
+			],
+			[
+				"cu",
+				"cube1"
+			],
+			[
+				"coo",
+				"cookies"
+			],
+			[
+				"cookie",
+				"cookiepoints"
+			],
+			[
+				"cooke",
+				"cookiepoints"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "gameoff202(3).sublime-project",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAC/AQAAewoJImZvbGRlcnMiOgoJWwoJCXsKCQkJImZvbGxvd19zeW1saW5rcyI6IHRydWUsCgkJCSJuYW1lIjogIi4iLAoJCQkicGF0aCI6ICJZOlxcZ2FtZXNcXGdhbWVvZmYyMDIwLy4iCgkJfSwKCQl7CgkJCSJmb2xsb3dfc3ltbGlua3MiOiB0cnVlLAoJCQkibmFtZSI6ICJGbGl4ZWwiLAoJCQkicGF0aCI6ICJDOlxcSGF4ZVRvb2xraXRcXGhheGVcXGxpYlxcZmxpeGVsLzUsMywxLyIKCQl9LAoJCXsKCQkJImZvbGxvd19zeW1saW5rcyI6IHRydWUsCgkJCSJuYW1lIjogIkZsaXhlbCBBZGRvbnMiLAoJCQkicGF0aCI6ICJDOlxcSGF4ZVRvb2xraXRcXGhheGVcXGxpYlxcZmxpeGVsLWFkZG9ucy8zLDEsMS8iCgkJfSwKCQl7CgkJCSJmb2xsb3dfc3ltbGlua3MiOiB0cnVlLAoJCQkibmFtZSI6ICJIYXhlIiwKCQkJInBhdGgiOiAiQzpcXEhheGVUb29sa2l0XFxoYXhlL3N0ZCIKCQl9CgldCn0KAAAAAAAAAADIAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 252.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bui",
+				"Haxe: Run build"
+			],
+			[
+				"bu",
+				"Haxe: Run build"
+			],
+			[
+				"targt",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"haxe",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"tar",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"ar",
+				"Arithmetic"
+			],
+			[
+				"tu",
+				"Terminus: List Shells"
+			],
+			[
+				"tum",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"b",
+				"Haxe: Run build"
+			],
+			[
+				"haxeli",
+				"Haxelib: Install library"
+			],
+			[
+				"check ",
+				"Help: Check for Updates"
+			],
+			[
+				"about",
+				"Help: About"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"ui",
+				"Haxelib: Update library"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"haxel",
+				"Haxelib: List Installed"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 136.244903564,
+		"history":
+		[
+			"window.run_command(\"toggle_menu\")",
+			"import sys\n\n\n# The license check happens at sub_40E0B0\n# 40E13D:  call    sub_419226\n# 40E142:  dec     eax\n# 40E144:  setnz   al\n# 40E147:  test    al, al\n# 40E149:  mov     cs:byte_A0E630, al\n# 40E14F:  jz      loc_40E1D8\n\n# After hours of reverse engineering i found out that `sub_419226` routine\n# is the one checking the license,\n# the result of the check is stored in the `al` register\n\n# the magic happens in `setz al` instruction, it sets `al` to zero\n# if after decrementing `eax` we get zero (means the sub_419226 result was 1)\n# the next three instruction jumps to `loc_40E1D8` if `al` is zero\n# If we jump to loc_40E1D8, the popup that asks us to enter the licence shows up\n# So we need to avoid the jump, one way is to patch the `setz` instruction with `setnz`\n\n# setz al ==  0F 94 C0\n# setnz al == 0F 95 C0\n# Se we just need to edit the byte 0x94 with 0x95,\n# the byte offset in the file is 0xe145,\n\n\noffset=0xe145\n\nif len(sys.argv) != 2:\n    print('Usage: {} SUBLIME_TEXT_BIN'.format(sys.argv[0]))\n    print('Exemple: {} /opt/sublime_text/sublime_text'.format(sys.argv[0]))\n    print('~~~ With love by Segflow ~~~')\n    sys.exit(2)\n\nwith open(sys.argv[1], 'r+b') as f:\n    f.seek(offset, 0)\n    f.write(b'\\x95')\n\nprint('Patched.')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Y/games/gameoff2020"
+	],
+	"file_history":
+	[
+		"/Y/michealtheratz/blog.html",
+		"/Y/michealtheratz/updates.rss",
+		"/Y/michealtheratz/art.html",
+		"/Y/michealtheratz/index.html",
+		"/Y/michealtheratz/devtippages/index.html",
+		"/Y/michealtheratz/devtippages/chromedevtools.html",
+		"/Y/michealtheratz/devtips.html",
+		"/Y/michealtheratz/graphics.html",
+		"/Y/michealtheratz/siteguard.html",
+		"/Y/michealtheratz/chat.html",
+		"/Y/michealtheratz/guestbook.html",
+		"/Y/michealtheratz/feed.xml",
+		"/Y/games/clipbuddy/index.html",
+		"/Y/games/clipbuddy/pages/clips.js",
+		"/Y/games/clipbuddy/pages/clips.html",
+		"/Y/games/clipbuddy/pages/menu.html",
+		"/Y/games/clipbuddy/pages/menu.js",
+		"/Y/games/clipbuddy/pages/menu.css",
+		"/Y/games/clipbuddy/pages/add.html",
+		"/Y/games/clipbuddy/pages/addfolder.html",
+		"/Y/games/clipbuddy/pages/addfolder.js",
+		"/Y/games/clipbuddy/style.css",
+		"/Y/games/clipbuddy/pages/add.js",
+		"/Y/games/clipbuddy/clipbuddy.sublime-project",
+		"/Y/games/clipbuddy/manifest.json",
+		"/Y/games/runner2/source/SplashState.hx",
+		"/Y/games/runner2/source/objects/Achivement.hx",
+		"/Y/games/runner2/source/PlayState.hx",
+		"/Y/games/runner2/source/objects/ClickableText.hx",
+		"/Y/games/runner2/source/GameOverState.hx",
+		"/Y/games/runner2/source/StartState.hx",
+		"/Y/games/runner2/source/Main.hx",
+		"/Y/games/runner2/Project.xml",
+		"/Y/games/runner2/source/objects/powerups/Shield.hx",
+		"/Y/games/runner2/source/objects/Player.hx",
+		"/Y/games/runner2/source/objects/CoolText.hx",
+		"/Y/games/runner2/source/objects/Badies.hx",
+		"/Y/games/runner2/source/objects/Blood.hx",
+		"/Y/games/runner2/source/objects/PowerUp.hx",
+		"/Y/games/runner2/source/objects/Dust.hx",
+		"/Y/games/runner2/source/objects/Smoke.hx",
+		"/Y/games/runner2/source/objects/Indicator.hx",
+		"/Y/games/runner2/source/Player.hx",
+		"/Y/games/beatitup/source/PeopleShowcaseState.hx",
+		"/Y/games/beatitup/source/lootlocker/LootLocker.hx",
+		"/Y/games/beatitup/source/GlobalVars.hx",
+		"/Y/games/beatitup/source/LeaderboardState.hx",
+		"/Y/games/beatitup/source/Main.hx",
+		"/Y/games/beatitup/source/ui/Button.hx",
+		"/Y/games/beatitup/Project.xml",
+		"/Y/games/beatitup/source/objects/Person.hx",
+		"/Y/games/beatitup/source/objects/Paddel.hx",
+		"/Y/games/beatitup/source/objects/PowerUp.hx",
+		"/Y/games/gamedevjsjam/assets/images/player.ase",
+		"/Y/games/gamedevjsjam/Project.xml",
+		"/Y/games/notebookadventures/source/PlayState.hx",
+		"/Y/games/notebookadventures/source/objects/Player.hx",
+		"/Y/games/notebookadventures/source/objects/Platform.hx",
+		"/Y/games/notebookadventures/source/objects/Block.hx",
+		"/Y/games/feelgoodenginedev/feelgoodengine/FgSprite.hx",
+		"/Y/games/feelgoodenginedev/examples/Player.hx",
+		"/Y/games/feelgoodenginedev/feelgoodengine/FgGame.hx",
+		"/Y/games/feelgoodenginedev/examples/Main.hx",
+		"/Y/games/feelgoodenginedev/feelgoodengine/FgText.hx",
+		"/Y/games/feelgoodenginedev/examples/index.html",
+		"/Y/games/feelgoodenginedev/feelgoodengine/FgScene.hx",
+		"/Y/games/feelgoodenginedev/feelgoodengine/FgInput.hx",
+		"/Y/games/feelgoodenginedev/examples/script.js",
+		"/Y/games/feelgoodengine/feelgoodengine/feelgoodengine/FgSprite.hx",
+		"/Y/games/feelgoodengine/haxelib.json",
+		"/Y/games/feelgoodengine/include.xml",
+		"/Y/games/feelgoodengine/project/FgScene.hx",
+		"/Y/games/feelgoodengine/feelgoodengine.sublime-project",
+		"/Y/games/feelgoodenginegame/Source/feelgoodengine/FgGroup.hx",
+		"/Y/games/feelgoodenginegame/Source/Player.hx",
+		"/Y/games/feelgoodenginegame/Source/feelgoodengine/FgBasic.hx",
+		"/Y/games/feelgoodengine/feelgood/FgGame.hx",
+		"/Y/games/feelgoodengine/feelgood/FgSprite.hx",
+		"/Y/games/feelgoodengine/build.hxml",
+		"/Y/games/steamedhams/source/helpers/BigHonkingChoice.hx",
+		"/Y/games/steamedhams/source/scenes/InsideState.hx",
+		"/Y/games/steamedhams/source/scenes/TheRoastIsRuined.hx",
+		"/Y/games/steamedhams/source/helpers/BaseScene.hx",
+		"/Y/games/steamedhams/source/Globals.hx",
+		"/Y/games/steamedhams/source/helpers/BigHonkingTextbox.hx",
+		"/Y/games/steamedhams/source/helpers/Clickable.hx",
+		"/Y/games/steamedhams/source/scenes/HouseState.hx",
+		"/Y/games/steamedhams/source/helpers/InsideState.hx",
+		"/Y/games/steamedhams/export/html5/haxe/ManifestResources.hx",
+		"/Y/games/steamedhams/Project.xml",
+		"/Y/games/steamedhams/source/BaseScene.hx",
+		"/Y/games/funnyhorrorgame/source/Globals.hx",
+		"/Y/games/brackeys/Project.xml",
+		"/Y/games/brackeys/source/InstructionsState.hx",
+		"/Y/games/brackeys/source/PlayState.hx",
+		"/Y/games/brackeys/source/CursorPlayer.hx",
+		"/Y/games/brackeys/source/helpers/MicrogameState.hx",
+		"/Y/games/brackeys/source/microgames/ShootState.hx",
+		"/C/devkitARM/gba_rules",
+		"/Y/games/brackeys/source/microgames/TurnSquareState.hx",
+		"/Y/games/brackeys/source/microgames/MathState.hx",
+		"/Y/games/brackeys/source/microgames/FoodState.hx",
+		"/Y/games/brackeys/source/microgames/FallState.hx",
+		"/Y/games/brackeys/source/microgames/DashState.hx",
+		"/Y/games/brackeys/source/microgames/CookieState.hx",
+		"/Y/games/brackeys/source/microgames/SlideState.hx",
+		"/Y/games/brackeys/source/microgames/SusState.hx",
+		"/Y/games/brackeys/source/EndState.hx",
+		"/Y/games/brackeys/source/GlobalVars.hx",
+		"/Y/games/brackeys/source/microgames/JumpState.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/FlxSprite.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/FlxCamera.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/animation/FlxAnimationController.hx",
+		"/Y/games/brackeys/graphiks/game transition/door.xml",
+		"/Y/games/brackeys/assets/images/door.xml",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/animation/FlxAnimation.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/graphics/frames/FlxAtlasFrames.hx",
+		"/Y/games/brackeys/graphiks/game transition/door.png",
+		"/Y/games/brackeys/assets/images/microgames/turncube/arrow.xml",
+		"/Y/games/brackeys/source/TestState.hx",
+		"/Y/games/brackeys/assets/images/player.xml",
+		"/Y/games/brackeys/graphiks/player graphicz/player.xml",
+		"/Y/games/brackeys/source/microgames/turnthesquare/TurnSquareState.hx",
+		"/Y/games/brackeys/source/microgames/turn_the_square/TurnSquareState.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/FlxObject.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/FlxState.hx",
+		"/C/HaxeToolkit/haxe/lib/flixel/5,0,2/flixel/FlxSubState.hx",
+		"/Y/games/brackeys/source/Player.hx"
+	],
+	"find":
+	{
+		"height": 28.4081632653
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "gameoff202(3).sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.4081632653
+	},
+	"input":
+	{
+		"height": 40.2448979592
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "gameoff2023.sublime-project",
+	"replace":
+	{
+		"height": 52.8979591837
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"pixelday23\\source\\MicrogameState.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
