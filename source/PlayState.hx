@@ -5,6 +5,7 @@ import flixel.FlxState;
 import flixel.ui.FlxButton;
 import flixel.ui.FlxBar;
 import flixel.text.FlxText;
+import flixel.FlxG;
 
 class PlayState extends FlxState
 {
@@ -13,7 +14,7 @@ class PlayState extends FlxState
 
 	var buildBar:FlxBar;
 	var brickText:FlxText;
-
+	var cashText:FlxText;
 	
 	override public function create()
 	{
@@ -21,23 +22,30 @@ class PlayState extends FlxState
 
 		buildBar = new FlxBar();
 		buildBar.screenCenter();
-		buildBar.y += 140;
+		buildBar.y += 20;
 
 		buildButton = new FlxButton(0,0,"", buildBrick);
 		buildButton.text = "Build brick";
 		buildButton.screenCenter();
-		buildButton.y += 160;
+		//buildButton.y += 160;
 
 		sellButton = new FlxButton(0,0,"", sellBrick);
 		sellButton.text = "Sell bricks";
 		sellButton.screenCenter();
 		sellButton.y += 160;
-		sellButton.x += 200;
-
+		
 		brickText = new FlxText();
 		brickText.text = "0";
 		brickText.size = 20;
 		brickText.screenCenter();
+		brickText.y -= 200;
+
+		cashText = new FlxText();
+		cashText.text = "$0";
+		cashText.size = 10;
+		cashText.screenCenter();
+		cashText.y -= 350;
+
 
 		add(buildButton);
 		add(sellButton);
@@ -50,8 +58,15 @@ class PlayState extends FlxState
 		super.update(elapsed);
 		brickText.text = Std.string(bricks);
 		brickText.screenCenter();
+		brickText.y -= 200;
+
+		cashText.text = "$"+Std.string(money);
+		cashText.screenCenter();
+		cashText.y -= 350;
 
 		buildBar.value = progress;
+
+		
 	}
 
 	function buildBrick() {
@@ -63,9 +78,10 @@ class PlayState extends FlxState
 		}
 	}
 	function sellBrick() {
-		if (bricks >= 6) {
+		/*if (bricks >= 6) {
 			money += 0.5 * bricks;
 			bricks -= bricks;
-		}
+		}*/
+		openSubState(new ui.SellMenu());
 	}
 }
